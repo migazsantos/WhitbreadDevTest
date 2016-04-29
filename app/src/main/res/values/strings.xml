@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Whitbread Developer Test</string>
+
+    <!-- MAIN ACTIVITY  -->
+    <string name="main_activity_search_button">Search</string>
+    <string name="main_activity_venue_search">Place to search</string>
+    <string name="main_activity_location_search">City, Country</string>
+    <string name="main_activity_venues_similar_label">Based on your search:</string>
+    <string name="main_activity_venues_other_label">Close recommended places:</string>
+
+
+    <!-- error messages -->
+    <string name="main_invalid_location_provided">Please input a valid location. Ex. City, Country</string>
+    <string name="main_no_recommended_venues">Unfortunately there are no close recommended places to show</string>
+    <string name="main_no_results_venues">Unfortunately there are no places to show that matches your search</string>
+
+    <!-- list item -->
+    <string name="list_item_distance">%s meters</string>
+</resources>
